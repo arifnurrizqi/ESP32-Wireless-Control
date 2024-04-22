@@ -1,13 +1,13 @@
-# waterflow-monitoring
+# ESP Wireless Control
 Project two ESP32 each connected to the server **(PHP + MYSQL)** where the first ESP32 has a button then the second ESP32 has lights with HTTP communication and simple API,, if the button on the first ESP is pressed then the lights on the second ESP will turn on if pressed again will turn off, and so on..
 
 # Wiring Diagram
-## ESP32 - 1 as data sending device
+## ESP - 1 as data sending device
 <picture>
   <img alt="First ESP32" title="" src="img/esp_1.png" />
 </picture>
 
-## ESP32 - 2 as data collection device
+## ESP - 2 as data collection device
 <picture>
   <img alt="Second ESP32" title="" src="img/esp_2.png" />
 </picture>
