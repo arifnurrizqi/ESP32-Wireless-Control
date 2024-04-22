@@ -22,12 +22,12 @@ then follow these steps:
 2. Run & start apache + mysql
 3. Copy and extract the script file in the xampp/htdocs folder
 4. Create database in PhpMyAdmin : localhost/phpmyadmin
-Example here: esp_waterflow
+Example here: wireless_control
 5. Open the extracted script folder in xampp/htdocs
 6. Open the config.php file
 8. Change the database name, the same as the new database name in step 4:
 
-Example here: esp_waterflow
+Example here: wireless_control
 ```
 $servername = "localhost";
 $dbname = "wireless_control";
