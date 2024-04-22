@@ -4,12 +4,12 @@ Project two ESP32 each connected to the server **(PHP + MYSQL)** where the first
 # Wiring Diagram
 ## ESP32 - 1 as data sending device
 <picture>
-  <img alt="First ESP32" title="" src="img/esp_1.jpg" />
+  <img alt="First ESP32" title="" src="img/esp_1.png" />
 </picture>
 
 ## ESP32 - 2 as data collection device
 <picture>
-  <img alt="Second ESP32" title="" src="img/esp_2.jpg" />
+  <img alt="Second ESP32" title="" src="img/esp_2.png" />
 </picture>
 
 # Installation
